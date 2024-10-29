@@ -190,7 +190,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Contact ☎️
 
 Your Name - [@dvble.m](https://twitter.com/BookofT)
-Project Link: [https://github.com/yourusername/bookstore-api](https://github.com/Thewsthews/Restful)
+Project Link: [https://github.com/Thewsthews/Restful](https://github.com/Thewsthews/Restful)
 
 ## Acknowledgments ✊🏾
 
