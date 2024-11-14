@@ -191,7 +191,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 Your Name - [@dvble.m](https://twitter.com/BookofT)
 Project Link: [https://github.com/Thewsthews/Restful](https://github.com/Thewsthews/Restful)
-Email: [Email](<a href="mailto:etiegnim@gmail.com" class="btn btn-primary">Email</a)
+Email: [Email](<a href="mailto:etiegnim@gmail.com" class="btn btn-primary">)
 
 ## Acknowledgments ✊🏾
 
