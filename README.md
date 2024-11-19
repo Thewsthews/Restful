@@ -104,7 +104,7 @@ PUT    /api/v1/books/:id      # Update a book
 DELETE /api/v1/books/:id      # Delete a book
 ```
 
-### Search & Recommendations
+### Search & Recommendations 🔍
 ```plaintext
 POST   /api/v1/books/search           # Search books
 GET    /api/v1/books/recommendations  # Get recommendations
@@ -112,7 +112,7 @@ GET    /api/v1/books/recommendations  # Get recommendations
 
 ## API Usage Examples
 
-### Authentication
+### Authentication 🔗
 ```javascript
 const response = await fetch('api/v1/authenticate', {
   method: 'POST',
@@ -189,7 +189,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Contact ☎️
 
-Your Name - [@dvble.m](https://twitter.com/BookofT)
+Your Name - [@dvble.m](https://twitter.com/BookofT) 
 Project Link: [https://github.com/Thewsthews/Restful](https://github.com/Thewsthews/Restful)
 
 ## Acknowledgments ✊🏾
