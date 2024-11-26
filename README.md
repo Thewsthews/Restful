@@ -95,7 +95,7 @@ POST   /api/v1/authenticate    # Login
 POST   /api/v1/register       # Register new user
 ```
 
-### Books
+### Books 📚
 ```plaintext
 GET    /api/v1/books          # List all books
 POST   /api/v1/books          # Create a book
